@@ -1,1 +1,1 @@
-# 508Training4.github.io
+# This is 508 Training class
